@@ -1,0 +1,6 @@
+@projeto_akross_2_HostAddress = http://localhost:5236
+
+GET {{projeto_akross_2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
